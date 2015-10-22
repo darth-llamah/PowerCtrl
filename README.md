@@ -27,6 +27,6 @@ Programming and fuse settings info on Flip's blog (link above)
 Circuit- slightly modified to use 5V power (instead of 3.6)- this should prevent any possible issues with analog input in PowerCtrl. See PowerBtn pdf/fzz file.
 
 Changes:
-- updated v-usb stack (and one line in main.c) so code can compile with current AVG GCC
+- updated v-usb stack (and one line in main.c) so the code can be compiled with current AVR GCC
 - project updated to use with Atmel Studio 6.2 (current version)
 - changed sent scan codes
